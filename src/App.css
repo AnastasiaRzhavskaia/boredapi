@@ -24,7 +24,6 @@ body {
   background-size: cover;
   background-position: center;
   overflow: hidden;
-  background-color: #ff00ff;
 }
 .headbox {
   width: 160px;
@@ -120,13 +119,11 @@ h1 {
   justify-content: center;
   align-items: center;
 }
-
 .star {
   color: #ffcc00;
   margin: 0 5px;
   cursor: pointer;
 }
-
 .star:hover,
 .star:focus {
   color: #d14129;
