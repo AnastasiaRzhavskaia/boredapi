@@ -161,6 +161,7 @@ h1 {
   color: #ffffff;
   text-decoration: none;
 }
+
 @media all and (max-width: 500px) {
   .App {
     max-width: 350px;
@@ -181,6 +182,34 @@ h1 {
   .headbox::after {
     top: -10px;
     border-width: 0 10px 10px 10px;
+  }
+  h1 {
+    font-size: 18px;
+  }
+  .two {
+    font-size: 18px;
+  }
+  .three {
+    font-size: 16px;
+  }
+  .activity-type {
+    font-size: 18px;
+  }
+  .btn {
+    padding: 12px 24px;
+    font-size: 16px;
+  }
+  .footer-text {
+    font-size: 14px;
+  }
+  .cons {
+    font-size: 12px;
+  }
+  .star {
+    font-size: 24px;
+  }
+  .activity-box {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
 }
 
